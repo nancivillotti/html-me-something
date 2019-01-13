@@ -81,6 +81,11 @@ p {
     font-size: 30px;
 }
 
+.responsive {
+    width: 33%;
+    height: auto;
+  }
+
 h2 {
     text-align: left;
     color: rgb(44, 118, 121);
