@@ -48,7 +48,7 @@ table {
 }
 
 p {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 50px;
     margin-right: 150px;
     margin-left: 80px;
@@ -57,21 +57,48 @@ p {
   div {
     padding-top: 25px;
     padding-right: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     padding-left: 80px;
   } 
 
   #page_title {
-      color: blue;
+      color: cornflowerblue;
       font-family: Cambria;
-      font-size: 40px;
+      font-size: 80px;
   }
+
+  #page_subtitle {
+    text-align: left;
+    color:cadetblue;
+    font-family: Cambria;
+    font-size: 50px;
+}
+
+
 .skill {
-    color: green;
+    color: brown;
     font-family: 'Trebuchet MS';
-    font-size: 20px;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(44, 118, 121);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
 }
 
 
 
+ul {
+    list-style-type: none;
+    margin: 40;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    overflow: hidden;
+    background-color: #7790db;
+      }
+      
 
