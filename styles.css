@@ -48,6 +48,9 @@ table {
 }
 
 p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(36, 49, 73);
     margin-top: 30px;
     margin-bottom: 50px;
     margin-right: 150px;
@@ -62,9 +65,13 @@ p {
   } 
 
   #page_title {
+    padding-top: 125px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px;
       color: cornflowerblue;
       font-family: Cambria;
-      font-size: 80px;
+      font-size: 100px;
   }
 
   #page_subtitle {
